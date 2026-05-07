@@ -61,6 +61,16 @@
     },
     {
       "cell_type": "markdown",
+      "source": [
+        "df.isnull().sum()"
+      ],
+      "metadata": {
+        "id": "6sRWIteSfwrC"
+      },
+      "id": "6sRWIteSfwrC"
+    },
+    {
+      "cell_type": "markdown",
       "id": "e0db824a-1804-4e21-b8db-3a366c0c6964",
       "metadata": {
         "id": "e0db824a-1804-4e21-b8db-3a366c0c6964"
